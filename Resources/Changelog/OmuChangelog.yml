@@ -1029,3 +1029,12 @@ Entries:
         implanter.
   id: 122
   time: '2025-11-05T19:20:37.0000000+00:00'
+- author: Evil Tuerk
+  changes:
+    - type: Tweak
+      message: >-
+        Cybernetic Hearts and Lungs now get disabled by EMPs correctly. You can
+        fix a stopped cyber heart by using a defibrillator, and airloss from
+        stopped cyberlungs with dexalin.
+  id: 123
+  time: '2025-11-05T20:11:51.0000000+00:00'
