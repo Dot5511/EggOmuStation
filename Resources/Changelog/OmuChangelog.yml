@@ -1065,3 +1065,16 @@ Entries:
         but can go from 48kg to 98kg.
   id: 125
   time: '2025-11-08T08:26:31.0000000+00:00'
+- author: Tuerk
+  changes:
+    - type: Tweak
+      message: >-
+        Wheelchairs should look a little less weird when going in some
+        directions.
+    - type: Tweak
+      message: >-
+        Wheelchairs are a teeny bit faster on the pedal, still slower than
+        running. Base 'walking' speed unaffected to maintain scenic walks around
+        the station~
+  id: 126
+  time: '2025-11-08T08:27:06.0000000+00:00'
