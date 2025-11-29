@@ -357,6 +357,7 @@
   - CaptainCloak
   - CaptainCloakFormal
   - CaptainMantle
+  - CaptainCloakLong # Ganimed14
 
 - type: loadoutGroup
   id: CaptainBackpack
@@ -402,6 +403,7 @@
   loadouts:
   - HoPCloak
   - HoPMantle
+  - HoPCloakLong # Ganimed14
 
 - type: loadoutGroup
   id: HoPBackpack
@@ -904,6 +906,7 @@
   loadouts:
   - QuartermasterCloak
   - QuartermasterMantle
+  - QuartermasterCloakLong #Ganimed14
 
 - type: loadoutGroup
   id: QuartermasterOuterClothing
@@ -1018,6 +1021,7 @@
   loadouts:
   - ChiefEngineerCloak
   - ChiefEngineerMantle
+  - ChiefEngineerCloakLong #Ganimed14
 
 - type: loadoutGroup
   id: ChiefEngineerOuterClothing
@@ -1164,6 +1168,7 @@
   - ResearchDirectorMantle
   - ResearchDirectorCloak
   - ResearchDirectorDecoratedCloak
+  - ResearchDirectorCloakLong #Ganimed14
 
 - type: loadoutGroup
   id: ResearchDirectorJumpsuit
@@ -1309,6 +1314,7 @@
   - HeadofSecurityCloak
   - HeadofSecurityMantle
   - Bodycam # Goobstation - Body cameras
+  - HeadofSecurityCloakLong #Ganimed14
 
 - type: loadoutGroup
   id: HeadofSecurityOuterClothing
@@ -1515,6 +1521,7 @@
   - ChiefMedicalOfficerMantle
   - ChiefMedicalOfficerDecoratedCloak # Omu
   - ChiefMedicalOfficerModernMantle # Omu
+  - ChiefMedicalOfficerCloakLong #Ganimed14
 
 - type: loadoutGroup
   id: ChiefMedicalOfficerShoes
