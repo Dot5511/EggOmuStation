@@ -3,7 +3,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckLongCloakCE
-  name: LightBringer CE Long Cloak
+  name: lightbringer CE long cloak
   description: The cloak of a true Chief Engineer whom has mastered Electricity and Atmospherics.
   components:
   - type: Sprite
@@ -14,7 +14,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckLongCloakQM
-  name: SpesosBringer QM Long Cloak
+  name: spesosbringer QM long cloak
   description: The Cloak of a true Quartermaster whom has mastered Trading and Currency.
   components:
   - type: Sprite
@@ -25,7 +25,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckLongCloakRD
-  name: KnowledgeBringer RD Long Cloak
+  name: knowledgebringer RD long cloak
   description: The Cloak of a true Research Director whom has mastered Discovering and Robotics.
   components:
   - type: Sprite
@@ -36,7 +36,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckLongCloakCap
-  name: DirectionBringer Captain Long Cloak
+  name: directionbringer captain long cloak
   description: The Cloak of a true Captain whom has mastered Leadership and Strategy.
   components:
   - type: Sprite
@@ -47,7 +47,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckLongCloakCMO
-  name: HealthBringer CMO Long Cloak
+  name: healthbringer CMO long cloak
   description: The Cloak of a true Chief Medical Officer whom has mastered Medicine and Treatment.
   components:
   - type: Sprite
@@ -58,7 +58,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckLongCloakHOP
-  name: PaperPusher HOP Long Cloak
+  name: paperpusher HOP long cloak
   description: The Cloak of a true Head of Personnel whom has mastered Bureaucracy and Regulations.
   components:
   - type: Sprite
@@ -69,7 +69,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckLongCloakHOS
-  name: JusticeBringer HOS Long Cloak
+  name: justicebringer HOS long cloak
   description: The Cloak of a true Head of Security whom has mastered Law and Combat.
   components:
   - type: Sprite
