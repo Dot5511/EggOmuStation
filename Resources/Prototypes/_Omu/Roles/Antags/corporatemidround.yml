@@ -1,0 +1,7 @@
+- type: antag
+  id: SleeperCorporateAgent
+  name: roles-antag-corporate-agentmidround-name
+  antagonist: true
+  setPreference: true
+  objective: roles-antag-corporate-agent-description
+  guides: [ CorporateAgents ]
