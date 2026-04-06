@@ -3,3 +3,19 @@
   recipes:
   - MagazineShotgunLeverRifleEmpty
   - MagazineShotgunLeverRifle
+  - MagazineBoxCaselessRiflePractice
+  - MagazineCaselessRiflePractice
+  - MagazineCaselessRifleShortPractice
+  - MagazineBoxCaselessRifleFMJ
+  - MagazineCaselessRifleFMJ
+  - MagazineCaselessRifleShortFMJ
+  - MagazineMagnumLeverRifle
+  - MagazineMagnumLeverRifleEmpty
+
+- type: latheRecipePack
+  id: SecurityAmmoOmu
+  recipes:
+  - MagazineBoxCaselessRifleIncendiary
+  - MagazineBoxCaselessRifleUranium
+  - MagazineCaselessRifleIncendiary
+  - MagazineCaselessRifleUranium
